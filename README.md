@@ -21,4 +21,4 @@ Bootstrap4을 활용해 반응형 웹과 기본 화성구성과 crawling을 활�
 화장품 성분의 등급과 유해성분, 알레르기성분, 전체등급을 표현)<br/>
 - 시연영상: <br/>
 
-<video src='https://user-images.githubusercontent.com/48432253/131416577-2c80f04a-d159-495b-881d-800aace81e5d.mp4' width='auto' controls autoplay>
+<video src='https://user-images.githubusercontent.com/48432253/131416577-2c80f04a-d159-495b-881d-800aace81e5d.mp4' width='500px' controls autoplay>
