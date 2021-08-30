@@ -19,4 +19,6 @@ Bootstrap4을 활용해 반응형 웹과 기본 화성구성과 crawling을 활�
 성분출력을 매칭을 위한 Java코딩을 익혀 Java숙련도를 높일 수 있었습니다.<br/>
 (화장품별 성분 데이터(crawling)과 화장품에 들어가는 성분등급데이터(crawling)를 매칭해서 <br/>
 화장품 성분의 등급과 유해성분, 알레르기성분, 전체등급을 표현)<br/>
--	: <br/>
+- 시연영상: <br/>
+
+<video src='https://user-images.githubusercontent.com/48432253/131416577-2c80f04a-d159-495b-881d-800aace81e5d.mp4' width='600px' controls autoplay>
