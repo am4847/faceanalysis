@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\admin\Desktop\faceanalysis\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4094582019.index
+\src\src
+C:\Users\admin\Desktop\faceanalysis\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2426881711.index
+\src\src
+C:\Users\admin\Desktop\faceanalysis\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2397283923.index
+\setting\src

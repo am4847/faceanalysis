@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\admin\Desktop\faceanalysis\.metadata\.plugins\org.eclipse.jdt.core
+1067094681.index
+1706253830.index
+3529708308.index

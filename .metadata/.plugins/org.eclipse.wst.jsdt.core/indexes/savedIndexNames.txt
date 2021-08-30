@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\admin\Desktop\faceanalysis\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2849748089.index
+3039206493.index
+3615107969.index
+1067094681.index
+3060481352.index
+3938541698.index
